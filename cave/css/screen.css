@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+body, html{
+	height: 100%;
+	overflow: hidden;
+}
+
+body{
+	background-color: black;
+}
+
+h3 {
+  color: white;
+}
+
+
+/*div.gameContainerParent{
+  text-align:center;
+  width: 100%; 
+  object-fit: cover;
+  position:absolute;
+  top: 0%;
+  left: 0%;
+  margin-left:-50px;
+  margin-top:-50px;
+    display: flex;
+
+
+  align-items: center;
+
+  width: 100%; 
+  height: 100%;
+  left:0px;
+  bottom:0px;
+  margin: auto;
+  object-fit: cover;
+  justify-content: center;
+}*/
+div.gameContainer{
+  height: 1600px;
+  width: 900px;
+  left:0px;
+  bottom:0px;
+  top:0px;
+  right:0px;
+}
